@@ -1,0 +1,2058 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<title>상장법인목록(EXCEL)</title>
+</head>
+<body>
+	<table cellpadding="0" cellspacing="1" class="bbs_tb" border="1">
+	<col width="20%" />
+	<col width="10%" />
+	<col width="15%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="5%" />
+	<col width="8%" />
+	<col width="7%" />
+	<col width="5%" />
+	<tr>
+		<th bgcolor="#66FF99" >회사명</th>
+		<th bgcolor="#66FF99" >종목코드</th>
+		<th bgcolor="#66FF99" >업종</th>
+		<th bgcolor="#66FF99" >주요제품</th>
+		<th bgcolor="#66FF99" >상장일</th>
+		<th bgcolor="#66FF99" >결산월</th>
+		<th bgcolor="#66FF99" >대표자명</th>
+		<th bgcolor="#66FF99" >홈페이지</th>
+		<th bgcolor="#66FF99" >지역</th>
+	</tr>
+	
+		
+			
+	<tr>
+		<td>에이스캠퍼</td>
+		<td style="mso-number-format:'@';text-align:center;">322190</td>
+		<td>자동차 차체 및 트레일러 제조업</td>
+		<td>캠핑카</td>
+		<td style="text-align:center;">2020-12-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>김민성</td>
+		<td>
+			http://acecamper.co.kr/
+		</td>
+		<td >충청남도</td>
+	</tr>
+			
+	<tr>
+		<td>루트락</td>
+		<td style="mso-number-format:'@';text-align:center;">253610</td>
+		<td>기타 전문 도매업</td>
+		<td>인공슬관절, 척추 임플란트(의료기기 도·소매)</td>
+		<td style="text-align:center;">2020-12-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>박종진</td>
+		<td>
+			http://rootloc.com/
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>씨엔티드림</td>
+		<td style="mso-number-format:'@';text-align:center;">286000</td>
+		<td>기타 화학제품 제조업</td>
+		<td>화장품 제조 및 도소매</td>
+		<td style="text-align:center;">2020-12-11</td>
+		<td style="text-align:center;">12월</td>
+		<td>안태우</td>
+		<td>
+			http://www.cntdream.com
+		</td>
+		<td >충청남도</td>
+	</tr>
+			
+	<tr>
+		<td>원포유</td>
+		<td style="mso-number-format:'@';text-align:center;">122830</td>
+		<td>전기 통신업</td>
+		<td>영상 및 음성 통신 서비스</td>
+		<td style="text-align:center;">2020-10-23</td>
+		<td style="text-align:center;">12월</td>
+		<td>전동호</td>
+		<td>
+			http://www.one4u.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>데이드림엔터</td>
+		<td style="mso-number-format:'@';text-align:center;">348840</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>드라마 및 영화제작</td>
+		<td style="text-align:center;">2020-08-18</td>
+		<td style="text-align:center;">12월</td>
+		<td>송정우</td>
+		<td>
+			http://www.daydream.kr 
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>바이오인프라생명과학</td>
+		<td style="mso-number-format:'@';text-align:center;">266470</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>I-FINDER(바이오마커 진단)</td>
+		<td style="text-align:center;">2020-07-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>이덕윤</td>
+		<td>
+			http://bioinfra.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>폭스소프트</td>
+		<td style="mso-number-format:'@';text-align:center;">354230</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>교육 정보화 사업(SI), Apple IT제품 유통(교육용)</td>
+		<td style="text-align:center;">2020-06-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>정성주</td>
+		<td>
+			http://www.foxsoft.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>무진메디</td>
+		<td style="mso-number-format:'@';text-align:center;">322970</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>나노-유전자 편집 기술 기반 대장암·탈모 등 치료제</td>
+		<td style="text-align:center;">2020-06-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>윤태종</td>
+		<td>
+			http://www.moogene.com/
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>오션스톤</td>
+		<td style="mso-number-format:'@';text-align:center;">329020</td>
+		<td>음·식료품 및 담배 도매업</td>
+		<td>간고등어 제품, 냉동수산물 유통</td>
+		<td style="text-align:center;">2020-05-07</td>
+		<td style="text-align:center;">12월</td>
+		<td>이정훈</td>
+		<td>
+			
+		</td>
+		<td >부산광역시</td>
+	</tr>
+			
+	<tr>
+		<td>이노진</td>
+		<td style="mso-number-format:'@';text-align:center;">344860</td>
+		<td>기타 화학제품 제조업</td>
+		<td>탈모케어제품(볼빅 등) 및 피부케어제품(Dr.메디션 등)</td>
+		<td style="text-align:center;">2020-04-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>이광훈</td>
+		<td>
+			http://www.innogene.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>단디바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">343090</td>
+		<td>의료용품 및 기타 의약 관련제품 제조업</td>
+		<td>패혈증 치료제, 면역항암제 전달기술 등</td>
+		<td style="text-align:center;">2020-04-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>박영민</td>
+		<td>
+			http:// www.dandibio.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>이앤에치</td>
+		<td style="mso-number-format:'@';text-align:center;">341310</td>
+		<td>기타 섬유제품 제조업</td>
+		<td>미세먼지용 HEPA 소재, 차량용 캐빈필터소재, 마스크용 소재</td>
+		<td style="text-align:center;">2019-12-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>황규익</td>
+		<td>
+			http://www.i-enh.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>엔에스엠</td>
+		<td style="mso-number-format:'@';text-align:center;">238170</td>
+		<td>합성고무 및 플라스틱 물질 제조업</td>
+		<td>전도성 고분자 코팅 대전방지 필름</td>
+		<td style="text-align:center;">2019-12-26</td>
+		<td style="text-align:center;">12월</td>
+		<td>정상국</td>
+		<td>
+			http://www.nsmcc.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>애드바이오텍</td>
+		<td style="mso-number-format:'@';text-align:center;">179530</td>
+		<td>의약품 제조업</td>
+		<td>동물용의약품, 보조사료 등</td>
+		<td style="text-align:center;">2019-12-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>정홍걸</td>
+		<td>
+			http://www.adbiotech.com
+		</td>
+		<td >강원도</td>
+	</tr>
+			
+	<tr>
+		<td>노드메이슨</td>
+		<td style="mso-number-format:'@';text-align:center;">317860</td>
+		<td>기타 화학제품 제조업</td>
+		<td>헉슬리/Huxley 화장품(스킨케어 스페셜/스킨케어베이직)</td>
+		<td style="text-align:center;">2019-12-06</td>
+		<td style="text-align:center;">12월</td>
+		<td>이병훈 / 구자풍</td>
+		<td>
+			http://www.huxley.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>이도바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">336040</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>당뇨질환 세포치료제 / 당뇨관리 의료기기</td>
+		<td style="text-align:center;">2019-12-02</td>
+		<td style="text-align:center;">12월</td>
+		<td>이인근</td>
+		<td>
+			http://www.yidobio.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>진코스텍</td>
+		<td style="mso-number-format:'@';text-align:center;">250030</td>
+		<td>기타 화학제품 제조업</td>
+		<td>마스크팩 ODM/OEM, 하이드로겔 마스크팩</td>
+		<td style="text-align:center;">2019-11-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>김임준</td>
+		<td>
+			http://www.jincostech.com 
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>유엑스엔</td>
+		<td style="mso-number-format:'@';text-align:center;">337840</td>
+		<td>의료용 기기 제조업</td>
+		<td>혈당센서, 혈당측정기</td>
+		<td style="text-align:center;">2019-11-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>박세진</td>
+		<td>
+			http://uxn.co.kr
+		</td>
+		<td >광주광역시</td>
+	</tr>
+			
+	<tr>
+		<td>한국미라클피플사</td>
+		<td style="mso-number-format:'@';text-align:center;">331660</td>
+		<td>기타 화학제품 제조업</td>
+		<td>은나노스텝, 닥터오렌지 등</td>
+		<td style="text-align:center;">2019-10-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>이호경</td>
+		<td>
+			http://www.kmpc.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>엔지브이아이</td>
+		<td style="mso-number-format:'@';text-align:center;">093510</td>
+		<td>자동차 신품 부품 제조업</td>
+		<td>천연가스자동차용 연료저장장치 등</td>
+		<td style="text-align:center;">2019-09-30</td>
+		<td style="text-align:center;">12월</td>
+		<td>정수영</td>
+		<td>
+			
+		</td>
+		<td >강원도</td>
+	</tr>
+			
+	<tr>
+		<td>아퓨어스</td>
+		<td style="mso-number-format:'@';text-align:center;">149300</td>
+		<td>기초 의약물질 및 생물학적 제제 제조업</td>
+		<td>실험동물, 연구용피부 및 연구용세포, 연구용역 </td>
+		<td style="text-align:center;">2019-09-03</td>
+		<td style="text-align:center;">12월</td>
+		<td>최선덕</td>
+		<td>
+			http://www.apures.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>케어룸의료산업</td>
+		<td style="mso-number-format:'@';text-align:center;">327970</td>
+		<td>의료용 기기 제조업</td>
+		<td>의료용침대, 모션베드, 기타 의료기기 등</td>
+		<td style="text-align:center;">2019-08-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>곽진태</td>
+		<td>
+			http://ynbed.co.kr
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>구스앤홈</td>
+		<td style="mso-number-format:'@';text-align:center;">329050</td>
+		<td>직물직조 및 직물제품 제조업</td>
+		<td>구스 다운 침구류(이불, 베개, 커버류 등)</td>
+		<td style="text-align:center;">2019-07-12</td>
+		<td style="text-align:center;">12월</td>
+		<td>이재일</td>
+		<td>
+			http://gooseandhome.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>펨토바이오메드</td>
+		<td style="mso-number-format:'@';text-align:center;">327610</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>CellShot 플랫폼 / CellShot 기반 항암백신치료 제품군 / CellShot 기반 자가면역질환치료 제품군 / CellShot 기반 바이오의약품 생산세포주 제품군</td>
+		<td style="text-align:center;">2019-07-10</td>
+		<td style="text-align:center;">12월</td>
+		<td>이상현</td>
+		<td>
+			http://www.femtobiomed.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>티티씨디펜스</td>
+		<td style="mso-number-format:'@';text-align:center;">309900</td>
+		<td>그외 기타 전문, 과학 및 기술 서비스업</td>
+		<td>Anti-Drone, UGV, 방폭블록, 방검조끼 등</td>
+		<td style="text-align:center;">2019-06-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>윤성욱</td>
+		<td>
+			http://ttcdefence.com/
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>원바이오젠</td>
+		<td style="mso-number-format:'@';text-align:center;">278380</td>
+		<td>의료용품 및 기타 의약 관련제품 제조업</td>
+		<td>의료기기(창상피복재)</td>
+		<td style="text-align:center;">2019-06-03</td>
+		<td style="text-align:center;">12월</td>
+		<td>김원일</td>
+		<td>
+			http://www.wonbiogen.co.kr
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>다원넥스뷰</td>
+		<td style="mso-number-format:'@';text-align:center;">323350</td>
+		<td>사진장비 및 광학기기 제조업</td>
+		<td>레이저 장비</td>
+		<td style="text-align:center;">2019-05-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>남기중</td>
+		<td>
+			http://www.nexview.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>이노벡스</td>
+		<td style="mso-number-format:'@';text-align:center;">279060</td>
+		<td>전자부품 제조업</td>
+		<td>TAS(지하철터널내영상광고장치), WING TV(회전식 LED바를 이용한 영상광고장치)</td>
+		<td style="text-align:center;">2019-04-12</td>
+		<td style="text-align:center;">12월</td>
+		<td>채균</td>
+		<td>
+			http://www.innovex.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>엘에이티</td>
+		<td style="mso-number-format:'@';text-align:center;">311060</td>
+		<td>특수 목적용 기계 제조업</td>
+		<td>In-Line Sputter, OLED 패널 청정물류 이송 장비 등</td>
+		<td style="text-align:center;">2018-12-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>박강일</td>
+		<td>
+			http://www.latplasma.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>테크엔</td>
+		<td style="mso-number-format:'@';text-align:center;">308700</td>
+		<td>전구 및 조명장치 제조업</td>
+		<td>LED조명장치</td>
+		<td style="text-align:center;">2018-12-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>이영섭</td>
+		<td>
+			http://www.techen.co.kr
+		</td>
+		<td >대구광역시</td>
+	</tr>
+			
+	<tr>
+		<td>프로테옴텍</td>
+		<td style="mso-number-format:'@';text-align:center;">303360</td>
+		<td>의료용품 및 기타 의약 관련제품 제조업</td>
+		<td>알러지진단키트, 임신진단테스트기, 면역진단키트</td>
+		<td style="text-align:center;">2018-12-19</td>
+		<td style="text-align:center;">12월</td>
+		<td>임국진</td>
+		<td>
+			http://www.proteometech.com/
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>에이펙스인텍</td>
+		<td style="mso-number-format:'@';text-align:center;">207490</td>
+		<td>전구 및 조명장치 제조업</td>
+		<td>LED조명장치 등</td>
+		<td style="text-align:center;">2018-11-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>김권진</td>
+		<td>
+			http://www.apexint.co.kr
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>나라소프트</td>
+		<td style="mso-number-format:'@';text-align:center;">288490</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>체육용솔루션(NS트루골프, NS테니스, NS축구, NS승마 등)</td>
+		<td style="text-align:center;">2018-11-23</td>
+		<td style="text-align:center;">12월</td>
+		<td>김호상</td>
+		<td>
+			http://www.narasoft.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>엔솔바이오사이언스</td>
+		<td style="mso-number-format:'@';text-align:center;">140610</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>퇴행성디스크 치료제, 골관절염 치료제, 동물용 골관절염 치료제</td>
+		<td style="text-align:center;">2018-09-10</td>
+		<td style="text-align:center;">12월</td>
+		<td>김해진</td>
+		<td>
+			http://www.ensolbio.co.kr
+		</td>
+		<td >대전광역시</td>
+	</tr>
+			
+	<tr>
+		<td>더콘텐츠온</td>
+		<td style="mso-number-format:'@';text-align:center;">302920</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>영화제작, 투자, 배급 및 영화디지털배급</td>
+		<td style="text-align:center;">2018-08-13</td>
+		<td style="text-align:center;">12월</td>
+		<td>김상윤</td>
+		<td>
+			http://www.tcokr.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>테크트랜스</td>
+		<td style="mso-number-format:'@';text-align:center;">258050</td>
+		<td>기타 금속 가공제품 제조업</td>
+		<td>비철금속표면처리장비 및 솔루션</td>
+		<td style="text-align:center;">2018-07-13</td>
+		<td style="text-align:center;">12월</td>
+		<td>유재용</td>
+		<td>
+			http:// techtrans.co.kr
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>엘리비젼</td>
+		<td style="mso-number-format:'@';text-align:center;">276240</td>
+		<td>영상 및 음향기기 제조업</td>
+		<td>디지털 사이니지, 키오스크 등</td>
+		<td style="text-align:center;">2018-07-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>안덕근</td>
+		<td>
+			http://www.elivision.com/
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>지앤이헬스케어</td>
+		<td style="mso-number-format:'@';text-align:center;">299480</td>
+		<td>기타 섬유제품 제조업</td>
+		<td>면생리대</td>
+		<td style="text-align:center;">2018-06-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>장영민</td>
+		<td>
+			http://www.hannahpad.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에스엠비나</td>
+		<td style="mso-number-format:'@';text-align:center;">299670</td>
+		<td>봉제의복 제조업</td>
+		<td>여성의류</td>
+		<td style="text-align:center;">2018-06-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>윤동률</td>
+		<td>
+			http://www.smvina.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>디피코</td>
+		<td style="mso-number-format:'@';text-align:center;">163430</td>
+		<td>건축기술, 엔지니어링 및 관련 기술 서비스업</td>
+		<td>자동차 엔지니어링 서비스, 의료용 전동스쿠터 등</td>
+		<td style="text-align:center;">2018-05-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>송신근</td>
+		<td>
+			http://www.dpeco.com
+		</td>
+		<td >강원도</td>
+	</tr>
+			
+	<tr>
+		<td>다이노나</td>
+		<td style="mso-number-format:'@';text-align:center;">086080</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>항체치료제</td>
+		<td style="text-align:center;">2018-05-08</td>
+		<td style="text-align:center;">12월</td>
+		<td>조경숙</td>
+		<td>
+			http://www.dinonainc.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에스제이켐</td>
+		<td style="mso-number-format:'@';text-align:center;">217910</td>
+		<td>기초 화학물질 제조업</td>
+		<td>수처리응집제, 폴리프로필렌</td>
+		<td style="text-align:center;">2018-04-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>배동수</td>
+		<td>
+			http://www.sj-chem.com/
+		</td>
+		<td >전라북도</td>
+	</tr>
+			
+	<tr>
+		<td>TS트릴리온</td>
+		<td style="mso-number-format:'@';text-align:center;">284610</td>
+		<td>기타 화학제품 제조업</td>
+		<td>탈모 샴푸 및 헤어케어 제품 등 </td>
+		<td style="text-align:center;">2017-12-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>장기영</td>
+		<td>
+			http://www.talmo.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>라이프사이언스테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">285770</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>생체신호모듈 및 패치형 체온 측정시스템 등</td>
+		<td style="text-align:center;">2017-12-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>김정환</td>
+		<td>
+			http://www.lstgrp.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>바이오시네틱스</td>
+		<td style="mso-number-format:'@';text-align:center;">281310</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>나노의약품 및 소재, 약물전달시스템(DDS)</td>
+		<td style="text-align:center;">2017-12-15</td>
+		<td style="text-align:center;">12월</td>
+		<td>김갑식</td>
+		<td>
+			http://www.bio-synectics.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>씨알푸드</td>
+		<td style="mso-number-format:'@';text-align:center;">236030</td>
+		<td>곡물가공품, 전분 및 전분제품 제조업</td>
+		<td>시리얼, 시리얼바</td>
+		<td style="text-align:center;">2017-12-14</td>
+		<td style="text-align:center;">12월</td>
+		<td>이상범</td>
+		<td>
+			http://www.crfood.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>휴럼</td>
+		<td style="mso-number-format:'@';text-align:center;">284420</td>
+		<td>기타 식품 제조업</td>
+		<td>건강기능식품, 유산균 관련 제품</td>
+		<td style="text-align:center;">2017-12-12</td>
+		<td style="text-align:center;">12월</td>
+		<td>김진석</td>
+		<td>
+			http://hurum.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>파인이엠텍</td>
+		<td style="mso-number-format:'@';text-align:center;">278990</td>
+		<td>전동기, 발전기 및 전기 변환 · 공급 · 제어 장치 제조업</td>
+		<td>태양광ESS,휴대폰 액세서리</td>
+		<td style="text-align:center;">2017-10-31</td>
+		<td style="text-align:center;">12월</td>
+		<td>홍지태</td>
+		<td>
+			http://www.fineemtech.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>탑선</td>
+		<td style="mso-number-format:'@';text-align:center;">180060</td>
+		<td>기타 전기장비 제조업</td>
+		<td>태양광 모듈</td>
+		<td style="text-align:center;">2017-10-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>윤정택</td>
+		<td>
+			http://topsun.kr
+		</td>
+		<td >전라남도</td>
+	</tr>
+			
+	<tr>
+		<td>이십일스토어</td>
+		<td style="mso-number-format:'@';text-align:center;">270020</td>
+		<td>기타 비금속 광물제품 제조업</td>
+		<td>규석, 골재, 석재(조경석)</td>
+		<td style="text-align:center;">2017-09-08</td>
+		<td style="text-align:center;">12월</td>
+		<td>강두원</td>
+		<td>
+			http://www.21stone.co.kr
+		</td>
+		<td >강원도</td>
+	</tr>
+			
+	<tr>
+		<td>시그넷이브이</td>
+		<td style="mso-number-format:'@';text-align:center;">260870</td>
+		<td>전동기, 발전기 및 전기 변환 · 공급 · 제어 장치 제조업</td>
+		<td>전기차 충전기</td>
+		<td style="text-align:center;">2017-08-30</td>
+		<td style="text-align:center;">12월</td>
+		<td>-</td>
+		<td>
+			http://www.signetev.com
+		</td>
+		<td >전라남도</td>
+	</tr>
+			
+	<tr>
+		<td>명진홀딩스</td>
+		<td style="mso-number-format:'@';text-align:center;">267060</td>
+		<td>수산물 가공 및 저장 처리업</td>
+		<td>연어 가공 식품(필렛, HMR)</td>
+		<td style="text-align:center;">2017-08-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>정상익</td>
+		<td>
+			http://www.salmonkorea.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>루켄테크놀러지스</td>
+		<td style="mso-number-format:'@';text-align:center;">162120</td>
+		<td>기타 전기장비 제조업</td>
+		<td>반도체 및 디스플레이 검사장비 및 검사부품</td>
+		<td style="text-align:center;">2017-07-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>안윤태</td>
+		<td>
+			http://www.luken.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에브리봇</td>
+		<td style="mso-number-format:'@';text-align:center;">270660</td>
+		<td>가정용 기기 제조업</td>
+		<td>물걸레로봇청소기</td>
+		<td style="text-align:center;">2017-07-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>정우철</td>
+		<td>
+			http://www.everybot.net
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>메디안디노스틱</td>
+		<td style="mso-number-format:'@';text-align:center;">233250</td>
+		<td>의료용품 및 기타 의약 관련제품 제조업</td>
+		<td>동물질병 체외진단키트 및 진단용 시약</td>
+		<td style="text-align:center;">2017-06-26</td>
+		<td style="text-align:center;">12월</td>
+		<td>오진식</td>
+		<td>
+			http://www.mediandiagnostics.com
+		</td>
+		<td >강원도</td>
+	</tr>
+			
+	<tr>
+		<td>다이오진</td>
+		<td style="mso-number-format:'@';text-align:center;">271850</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>분자진단서비스, 분자진단Kit</td>
+		<td style="text-align:center;">2017-06-19</td>
+		<td style="text-align:center;">12월</td>
+		<td>임성식</td>
+		<td>
+			http://www.diogene.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에스알바이오텍</td>
+		<td style="mso-number-format:'@';text-align:center;">270210</td>
+		<td>기타 화학제품 제조업</td>
+		<td>화장품 제조 및 유통</td>
+		<td style="text-align:center;">2017-06-15</td>
+		<td style="text-align:center;">12월</td>
+		<td>이소형</td>
+		<td>
+			
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>뿌리깊은나무들</td>
+		<td style="mso-number-format:'@';text-align:center;">266170</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>TV 드라마 등</td>
+		<td style="text-align:center;">2017-06-09</td>
+		<td style="text-align:center;">12월</td>
+		<td>이재원</td>
+		<td>
+			http://www.redwoods.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>SGA클라우드서비스</td>
+		<td style="mso-number-format:'@';text-align:center;">224880</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>임베디드 소프트웨어 및 하드웨어</td>
+		<td style="text-align:center;">2017-05-23</td>
+		<td style="text-align:center;">12월</td>
+		<td>은유진</td>
+		<td>
+			http://www.sgaemb.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>앙츠</td>
+		<td style="mso-number-format:'@';text-align:center;">267810</td>
+		<td>컴퓨터 및 통신장비 수리업</td>
+		<td>기술서비스</td>
+		<td style="text-align:center;">2017-04-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>박창진</td>
+		<td>
+			http://www.iantz.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>엠앤씨생명과학</td>
+		<td style="mso-number-format:'@';text-align:center;">225860</td>
+		<td>기타 화학제품 제조업</td>
+		<td>무합성화장품, 건강기능식품</td>
+		<td style="text-align:center;">2017-04-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>조선도</td>
+		<td>
+			http://www.mncls.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>파워풀엑스</td>
+		<td style="mso-number-format:'@';text-align:center;">266870</td>
+		<td>생활용품 도매업</td>
+		<td>플렉스파워 리커버리크림</td>
+		<td style="text-align:center;">2017-04-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>박인철</td>
+		<td>
+			http://www.flexpower.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>에스앤디</td>
+		<td style="mso-number-format:'@';text-align:center;">260970</td>
+		<td>기타 식품 제조업</td>
+		<td>그릴치킨농축액 외</td>
+		<td style="text-align:center;">2016-12-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>여경목</td>
+		<td>
+			http://www.isnd.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>도부마스크</td>
+		<td style="mso-number-format:'@';text-align:center;">227420</td>
+		<td>기타 전문 도매업</td>
+		<td>1) 마스크 도소매업 2) 모바일 사업 및 R&D</td>
+		<td style="text-align:center;">2016-12-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>김동혁</td>
+		<td>
+			http://www.dobumask.asia
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>전우정밀</td>
+		<td style="mso-number-format:'@';text-align:center;">120780</td>
+		<td>자동차 신품 부품 제조업</td>
+		<td>차량 도어부품 등</td>
+		<td style="text-align:center;">2016-12-23</td>
+		<td style="text-align:center;">12월</td>
+		<td>김동진, 박원호</td>
+		<td>
+			http://www.jwjm.com
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>피엔아이컴퍼니</td>
+		<td style="mso-number-format:'@';text-align:center;">242350</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>3D 애니메이션, 3D VR 시뮬레이터 및 콘텐츠</td>
+		<td style="text-align:center;">2016-12-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>신재중</td>
+		<td>
+			http://www.pnisys.com
+		</td>
+		<td >제주특별자치도</td>
+	</tr>
+			
+	<tr>
+		<td>셀젠텍</td>
+		<td style="mso-number-format:'@';text-align:center;">258250</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>FOBI, C-Manager, S-Keeper</td>
+		<td style="text-align:center;">2016-12-13</td>
+		<td style="text-align:center;">12월</td>
+		<td>김회율</td>
+		<td>
+			http://cellgentek.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>바이오프로테크</td>
+		<td style="mso-number-format:'@';text-align:center;">199290</td>
+		<td>의료용 기기 제조업</td>
+		<td>심전도 측정용 전극 등 </td>
+		<td style="text-align:center;">2016-12-08</td>
+		<td style="text-align:center;">12월</td>
+		<td>박익로</td>
+		<td>
+			http://www.protechsite.com
+		</td>
+		<td >강원도</td>
+	</tr>
+			
+	<tr>
+		<td>스템랩</td>
+		<td style="mso-number-format:'@';text-align:center;">258540</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>줄기세포치료제, 화장품, 전자의료기기 등</td>
+		<td style="text-align:center;">2016-11-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>오동훈</td>
+		<td>
+			http://www.stemlab.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>시큐센</td>
+		<td style="mso-number-format:'@';text-align:center;">232830</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>모바일보안 및 보안 SI서비스, 생체인식기반의 바이오인증</td>
+		<td style="text-align:center;">2016-11-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>박원규</td>
+		<td>
+			http://www.secucen.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>비플라이소프트</td>
+		<td style="mso-number-format:'@';text-align:center;">148780</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>아이서퍼, e-NIE, 파오인 등</td>
+		<td style="text-align:center;">2016-11-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>임경환</td>
+		<td>
+			http://www.bflysoft.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>굿센</td>
+		<td style="mso-number-format:'@';text-align:center;">243870</td>
+		<td>컴퓨터 프로그래밍, 시스템 통합 및 관리업</td>
+		<td>건설ERP, 공공클라우드</td>
+		<td style="text-align:center;">2016-10-31</td>
+		<td style="text-align:center;">12월</td>
+		<td>-</td>
+		<td>
+			http://www.goodcen.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>안지오랩</td>
+		<td style="mso-number-format:'@';text-align:center;">251280</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>신약개발 및 체지방 감소 건강기능식품</td>
+		<td style="text-align:center;">2016-10-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>김민영</td>
+		<td>
+			http://www.angiolab.co.kr
+		</td>
+		<td >대전광역시</td>
+	</tr>
+			
+	<tr>
+		<td>엠에프엠코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">251960</td>
+		<td>편조의복 제조업</td>
+		<td>남녀 및 유아용의 외의, 내의 및 기타 의복</td>
+		<td style="text-align:center;">2016-09-08</td>
+		<td style="text-align:center;">12월</td>
+		<td>안피터도성, 조장호(각자 대표이사)</td>
+		<td>
+			http://www.mfmkorea.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>피엔에이치테크</td>
+		<td style="mso-number-format:'@';text-align:center;">239890</td>
+		<td>기초 화학물질 제조업</td>
+		<td>OLED완성체, OLED중간체, Pd촉매</td>
+		<td style="text-align:center;">2016-08-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>현서용</td>
+		<td>
+			http://www.phtech.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>티케이씨</td>
+		<td style="mso-number-format:'@';text-align:center;">191600</td>
+		<td>전자부품 제조업</td>
+		<td></td>
+		<td style="text-align:center;">2016-08-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>김상봉</td>
+		<td>
+			http://www.e-tkc.com
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>휴벡셀</td>
+		<td style="mso-number-format:'@';text-align:center;">212310</td>
+		<td>의료용 기기 제조업</td>
+		<td>척추용 임플란트 등</td>
+		<td style="text-align:center;">2016-07-26</td>
+		<td style="text-align:center;">12월</td>
+		<td>박정민, 허성규(각자대표)</td>
+		<td>
+			http://huvexel.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에스케이씨에스</td>
+		<td style="mso-number-format:'@';text-align:center;">224020</td>
+		<td>플라스틱제품 제조업</td>
+		<td>플라스틱 필름</td>
+		<td style="text-align:center;">2016-07-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>조경진</td>
+		<td>
+			http://skcs.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>제노텍</td>
+		<td style="mso-number-format:'@';text-align:center;">066830</td>
+		<td>기타 화학제품 제조업</td>
+		<td>원료의약품, 합성유전자, 체외진단 분석기용 시약</td>
+		<td style="text-align:center;">2016-07-18</td>
+		<td style="text-align:center;">12월</td>
+		<td>김재종</td>
+		<td>
+			http://www.genotech.co.kr 
+		</td>
+		<td >대전광역시</td>
+	</tr>
+			
+	<tr>
+		<td>에스엘에스바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">246250</td>
+		<td>기타 과학기술 서비스업</td>
+		<td>신 의료 진단기술 연구개발, 의약품 연구개발 지원, 의약품 품질 관리 사업 등</td>
+		<td style="text-align:center;">2016-06-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>이영태</td>
+		<td>
+			http://www.slabs.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>씨앤에스링크</td>
+		<td style="mso-number-format:'@';text-align:center;">245450</td>
+		<td>통신 및 방송 장비 제조업</td>
+		<td>내비게이션, LTE Router, 블랙박스</td>
+		<td style="text-align:center;">2016-06-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>안상태</td>
+		<td>
+			http://www.cns-link.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>이비테크</td>
+		<td style="mso-number-format:'@';text-align:center;">208850</td>
+		<td>기타 전기장비 제조업</td>
+		<td>전자가속기 제조 및 전자선조사서비스</td>
+		<td style="text-align:center;">2016-06-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>김진규</td>
+		<td>
+			http://www.eb-tech.com
+		</td>
+		<td >대전광역시</td>
+	</tr>
+			
+	<tr>
+		<td>나눔테크</td>
+		<td style="mso-number-format:'@';text-align:center;">244880</td>
+		<td>의료용 기기 제조업</td>
+		<td>자동심장충격기, 골밀도진단기</td>
+		<td style="text-align:center;">2016-06-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>최무진</td>
+		<td>
+			http://www.nanoomtech.co.kr
+		</td>
+		<td >광주광역시</td>
+	</tr>
+			
+	<tr>
+		<td>KC산업</td>
+		<td style="mso-number-format:'@';text-align:center;">112190</td>
+		<td>시멘트, 석회, 플라스터 및 그 제품 제조업</td>
+		<td>철강보강콘크리트제품</td>
+		<td style="text-align:center;">2016-05-31</td>
+		<td style="text-align:center;">12월</td>
+		<td>이강주, 이홍재</td>
+		<td>
+			http://www.kccond.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>엠로</td>
+		<td style="mso-number-format:'@';text-align:center;">058970</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>구매 SCM솔루션</td>
+		<td style="text-align:center;">2016-04-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>송재민</td>
+		<td>
+			http://www.emro.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>이에스산업</td>
+		<td style="mso-number-format:'@';text-align:center;">241510</td>
+		<td>일반 목적용 기계 제조업</td>
+		<td>전동공구</td>
+		<td style="text-align:center;">2016-04-26</td>
+		<td style="text-align:center;">12월</td>
+		<td>쟝지엔핑</td>
+		<td>
+			http://www.es-is.co.kr
+		</td>
+		<td >충청남도</td>
+	</tr>
+			
+	<tr>
+		<td>인터코스</td>
+		<td style="mso-number-format:'@';text-align:center;">240340</td>
+		<td>기타 화학제품 제조업</td>
+		<td>스킨로션, 기능성제품류, 헤어제품류, 의약외품 등(화장품 ODM)</td>
+		<td style="text-align:center;">2016-04-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>김주덕</td>
+		<td>
+			http://www.interkos.co.kr
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>로보쓰리</td>
+		<td style="mso-number-format:'@';text-align:center;">238500</td>
+		<td>그외 기타 전문, 과학 및 기술 서비스업</td>
+		<td>모듈, 퍼스널 모빌리티기기</td>
+		<td style="text-align:center;">2016-04-20</td>
+		<td style="text-align:center;">12월</td>
+		<td>김준형</td>
+		<td>
+			http://www.robo3.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>바이옵트로</td>
+		<td style="mso-number-format:'@';text-align:center;">222160</td>
+		<td>측정, 시험, 항해, 제어 및 기타 정밀기기 제조업; 광학기기 제외</td>
+		<td>PCB 전기 검사기, Screw 자동 체결기</td>
+		<td style="text-align:center;">2016-03-10</td>
+		<td style="text-align:center;">03월</td>
+		<td>김완수</td>
+		<td>
+			http://www.bioptro.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>메디젠휴먼케어</td>
+		<td style="mso-number-format:'@';text-align:center;">236340</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>M-CHECK (개인별 유전적 질병 예측 서비스)</td>
+		<td style="text-align:center;">2016-01-26</td>
+		<td style="text-align:center;">12월</td>
+		<td>신동직</td>
+		<td>
+			http://www.medizencare.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>선바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">067370</td>
+		<td>의약품 제조업</td>
+		<td>생체고분자유도체</td>
+		<td style="text-align:center;">2016-01-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>노광</td>
+		<td>
+			http://www.sunbio.com 
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>볼빅</td>
+		<td style="mso-number-format:'@';text-align:center;">206950</td>
+		<td>운동 및 경기용구 제조업</td>
+		<td>골프공</td>
+		<td style="text-align:center;">2015-12-30</td>
+		<td style="text-align:center;">12월</td>
+		<td>문경안</td>
+		<td>
+			http://www.volvik.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>이엠티</td>
+		<td style="mso-number-format:'@';text-align:center;">232530</td>
+		<td>일차전지 및 축전지 제조업</td>
+		<td>이차전지 양극재용 전구체</td>
+		<td style="text-align:center;">2015-12-30</td>
+		<td style="text-align:center;">12월</td>
+		<td>유상열</td>
+		<td>
+			http://www.emtcorp.com 
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>질경이</td>
+		<td style="mso-number-format:'@';text-align:center;">233990</td>
+		<td>기타 화학제품 제조업</td>
+		<td>여성청결제 및 질염치료제 개발</td>
+		<td style="text-align:center;">2015-12-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>최원석</td>
+		<td>
+			http://www.jilgyungyi.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>지오씨</td>
+		<td style="mso-number-format:'@';text-align:center;">135160</td>
+		<td>절연선 및 케이블 제조업</td>
+		<td>옥내외용케이블</td>
+		<td style="text-align:center;">2015-12-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>박인철</td>
+		<td>
+			http://www.glights.com
+		</td>
+		<td >광주광역시</td>
+	</tr>
+			
+	<tr>
+		<td>크로넥스</td>
+		<td style="mso-number-format:'@';text-align:center;">215570</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>CRO 및 생물종(미니피그)</td>
+		<td style="text-align:center;">2015-12-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>손영준</td>
+		<td>
+			http://www.cronex.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에이원알폼</td>
+		<td style="mso-number-format:'@';text-align:center;">234070</td>
+		<td>산업용 기계 및 장비 임대업</td>
+		<td>건설현장용 알루미늄 거푸집 임대</td>
+		<td style="text-align:center;">2015-12-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>안호중</td>
+		<td>
+			http://www.aonealform.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>라온테크</td>
+		<td style="mso-number-format:'@';text-align:center;">232680</td>
+		<td>특수 목적용 기계 제조업</td>
+		<td>산업용로봇과 자동화시스템</td>
+		<td style="text-align:center;">2015-12-15</td>
+		<td style="text-align:center;">12월</td>
+		<td>김원경</td>
+		<td>
+			http://www.raonrobot.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에이치엔에스하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">044990</td>
+		<td>전자부품 제조업</td>
+		<td>이방성전도필름, 수정진동자</td>
+		<td style="text-align:center;">2015-12-10</td>
+		<td style="text-align:center;">12월</td>
+		<td>김정희</td>
+		<td>
+			http://www.hnshightech.com
+		</td>
+		<td >대전광역시</td>
+	</tr>
+			
+	<tr>
+		<td>미애부</td>
+		<td style="mso-number-format:'@';text-align:center;">225850</td>
+		<td>생활용품 도매업</td>
+		<td>친환경, 무합성 발효화장품</td>
+		<td style="text-align:center;">2015-12-08</td>
+		<td style="text-align:center;">12월</td>
+		<td>강동표</td>
+		<td>
+			http://www.miev.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>인카금융서비스</td>
+		<td style="mso-number-format:'@';text-align:center;">211050</td>
+		<td>보험 및 연금관련 서비스업</td>
+		<td>보험판매</td>
+		<td style="text-align:center;">2015-11-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>최병채</td>
+		<td>
+			http://www.incar.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>파마리서치바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">217950</td>
+		<td>의약품 제조업</td>
+		<td>메디컬 에스테틱, 생물학적 제재</td>
+		<td style="text-align:center;">2015-11-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>백승걸</td>
+		<td>
+			http://www.pr-bio.co.kr
+		</td>
+		<td >강원도</td>
+	</tr>
+			
+	<tr>
+		<td>럭스피아</td>
+		<td style="mso-number-format:'@';text-align:center;">092590</td>
+		<td>반도체 제조업</td>
+		<td>LED 패키지, LED 모듈</td>
+		<td style="text-align:center;">2015-10-30</td>
+		<td style="text-align:center;">12월</td>
+		<td>성석종</td>
+		<td>
+			http://www.luxpialed.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>노브메타파마</td>
+		<td style="mso-number-format:'@';text-align:center;">229500</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>대사질환 신약 개발 및 건강기능식픔</td>
+		<td style="text-align:center;">2015-10-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>황선욱</td>
+		<td>
+			http://www.novmeta.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>엄지하우스</td>
+		<td style="mso-number-format:'@';text-align:center;">224810</td>
+		<td>실내건축 및 건축마무리 공사업</td>
+		<td>실내건축업, 분양공사 및 디자인 설계</td>
+		<td style="text-align:center;">2015-10-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>정재호, 손기근</td>
+		<td>
+			http://www.eomjihouse.co.kr 
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>메디쎄이</td>
+		<td style="mso-number-format:'@';text-align:center;">200580</td>
+		<td>의료용 기기 제조업</td>
+		<td>정형외과용 척추임플란트</td>
+		<td style="text-align:center;">2015-10-20</td>
+		<td style="text-align:center;">12월</td>
+		<td>강원호, 이환욱 (각자 대표이사)</td>
+		<td>
+			http://www.medyssey.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>엔에스컴퍼니</td>
+		<td style="mso-number-format:'@';text-align:center;">224760</td>
+		<td>토목 건설업</td>
+		<td>산업플랜트 건설 및 경상정비, 자동차부품제조판매</td>
+		<td style="text-align:center;">2015-07-31</td>
+		<td style="text-align:center;">12월</td>
+		<td>김동진, 남세우 (각자 대표이사)</td>
+		<td>
+			http://www.nscompany.co.kr
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>플럼라인생명과학</td>
+		<td style="mso-number-format:'@';text-align:center;">222670</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>강아지암치료제,돼지DNA테라피</td>
+		<td style="text-align:center;">2015-07-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>김앤토니경태</td>
+		<td>
+			http://www.plsdna.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>네추럴FNP</td>
+		<td style="mso-number-format:'@';text-align:center;">086220</td>
+		<td>기타 식품 제조업</td>
+		<td>건강기능식품</td>
+		<td style="text-align:center;">2015-07-09</td>
+		<td style="text-align:center;">12월</td>
+		<td>이 현 직</td>
+		<td>
+			http://www.naturalfnp.com 
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>아이피몬스터</td>
+		<td style="mso-number-format:'@';text-align:center;">223220</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>모바일 컨텐츠 개발 및 유통 </td>
+		<td style="text-align:center;">2015-07-09</td>
+		<td style="text-align:center;">12월</td>
+		<td>김승민</td>
+		<td>
+			http://www.gurumcompany.com
+		</td>
+		<td >광주광역시</td>
+	</tr>
+			
+	<tr>
+		<td>바이오코아</td>
+		<td style="mso-number-format:'@';text-align:center;">216400</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>CRO(분석/생동/임상) 서비스, 유전체 분석 및 유전체 분석제품 개발 등</td>
+		<td style="text-align:center;">2015-06-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>신용규</td>
+		<td>
+			http://www.bio-core.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>유투바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">221800</td>
+		<td>기타 과학기술 서비스업</td>
+		<td>유전자 분석 서비스</td>
+		<td style="text-align:center;">2015-06-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>김진태</td>
+		<td>
+			http://www.u2bio.co.kr 
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>씨앗</td>
+		<td style="mso-number-format:'@';text-align:center;">103660</td>
+		<td>기타 화학제품 제조업</td>
+		<td>잉크리본, 인화지</td>
+		<td style="text-align:center;">2015-06-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>김환기</td>
+		<td>
+			http://www.ciaat.net
+		</td>
+		<td >광주광역시</td>
+	</tr>
+			
+	<tr>
+		<td>틸론</td>
+		<td style="mso-number-format:'@';text-align:center;">217880</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>Cloud Solution (D,A,E,Rstation)</td>
+		<td style="text-align:center;">2015-05-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>최백준, 최용호</td>
+		<td>
+			http://www.tilon.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>관악산업</td>
+		<td style="mso-number-format:'@';text-align:center;">076340</td>
+		<td>기반조성 및 시설물 축조관련 전문공사업</td>
+		<td>수중공사, 준설공사 등</td>
+		<td style="text-align:center;">2015-05-18</td>
+		<td style="text-align:center;">12월</td>
+		<td>이규형, 이규항(각자대표)</td>
+		<td>
+			http://www.gwan-ak.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>썬테크</td>
+		<td style="mso-number-format:'@';text-align:center;">217320</td>
+		<td>전동기, 발전기 및 전기 변환 · 공급 · 제어 장치 제조업</td>
+		<td>자기진단형 발전기, 영구자석 회전자 발전기</td>
+		<td style="text-align:center;">2015-04-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>이선휴</td>
+		<td>
+			http://www.sun-tech.co.kr
+		</td>
+		<td >전라남도</td>
+	</tr>
+			
+	<tr>
+		<td>원텍</td>
+		<td style="mso-number-format:'@';text-align:center;">216280</td>
+		<td>의료용 기기 제조업</td>
+		<td></td>
+		<td style="text-align:center;">2015-04-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>김종원,  김정현</td>
+		<td>
+			http://www.wtlaser.com
+		</td>
+		<td >대전광역시</td>
+	</tr>
+			
+	<tr>
+		<td>비엔디생활건강</td>
+		<td style="mso-number-format:'@';text-align:center;">215050</td>
+		<td>기타 화학제품 제조업</td>
+		<td>세탁용 세제</td>
+		<td style="text-align:center;">2015-03-30</td>
+		<td style="text-align:center;">12월</td>
+		<td>이다니엘</td>
+		<td>
+			http://www.e-seje.com
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>듀켐바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">176750</td>
+		<td>의약품 제조업</td>
+		<td>방사성의약품, 의료기기, 장비, 암진단의약품 도매, 무역  장비 임대  암진단의약품 등 제조</td>
+		<td style="text-align:center;">2014-12-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>김종우</td>
+		<td>
+			http://www.duchembio.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>래몽래인</td>
+		<td style="mso-number-format:'@';text-align:center;">200350</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>TV드라마제작</td>
+		<td style="text-align:center;">2014-12-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>김동래</td>
+		<td>
+			http://www.raemongraein.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>미래엔에듀파트너</td>
+		<td style="mso-number-format:'@';text-align:center;">208890</td>
+		<td>교육지원 서비스업</td>
+		<td>방과후 교육</td>
+		<td style="text-align:center;">2014-12-18</td>
+		<td style="text-align:center;">12월</td>
+		<td>최용섭</td>
+		<td>
+			http://www.edupartner.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>빅텐츠</td>
+		<td style="mso-number-format:'@';text-align:center;">210120</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>드라마, OST</td>
+		<td style="text-align:center;">2014-12-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>조윤정</td>
+		<td>
+			http://www.victents.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>피노텍</td>
+		<td style="mso-number-format:'@';text-align:center;">150440</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>인터넷전자등기시스템, 비대면금융거래플랫폼, 로보카운슬링 솔루션, 비대면실명확인 솔루션, 대출간편이동서비스(싸니자로)</td>
+		<td style="text-align:center;">2014-12-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>김우섭</td>
+		<td>
+			http://www.finotek.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>아이케이세미콘</td>
+		<td style="mso-number-format:'@';text-align:center;">149010</td>
+		<td>반도체 제조업</td>
+		<td>비메모리 반도체</td>
+		<td style="text-align:center;">2014-11-14</td>
+		<td style="text-align:center;">12월</td>
+		<td>윤경덕</td>
+		<td>
+			http://www.iksemi.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>유니포인트</td>
+		<td style="mso-number-format:'@';text-align:center;">121060</td>
+		<td>컴퓨터 프로그래밍, 시스템 통합 및 관리업</td>
+		<td>소프트웨어 개발, 도소매컴퓨터시스템 설계, 자문</td>
+		<td style="text-align:center;">2014-10-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>권은영</td>
+		<td>
+			http://www.unipoint.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>판도라티비</td>
+		<td style="mso-number-format:'@';text-align:center;">202960</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>판도라TV, KM 플레이어</td>
+		<td style="text-align:center;">2014-08-11</td>
+		<td style="text-align:center;">12월</td>
+		<td>김경익</td>
+		<td>
+			http://www.pandora.tv
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에이비온</td>
+		<td style="mso-number-format:'@';text-align:center;">203400</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>신약개발</td>
+		<td style="text-align:center;">2014-07-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>신영기</td>
+		<td>
+			http://www.abionbio.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>큐엠씨</td>
+		<td style="mso-number-format:'@';text-align:center;">136660</td>
+		<td>특수 목적용 기계 제조업</td>
+		<td>반도체, LED, FPD 제조 및 검사 장비 </td>
+		<td style="text-align:center;">2014-07-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>유병소</td>
+		<td>
+			http://www.iqmc.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>데이터스트림즈</td>
+		<td style="mso-number-format:'@';text-align:center;">199150</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>TeraStream</td>
+		<td style="text-align:center;">2014-06-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>이영상</td>
+		<td>
+			http://www.datastreams.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>툴젠</td>
+		<td style="mso-number-format:'@';text-align:center;">199800</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>유전자가위 (유전체 교정 도구) 및 이를 이용한 유전자세포치료제, 고부가가치 가축, 농작물 개발</td>
+		<td style="text-align:center;">2014-06-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>김영호, 이병화(각자 대표이사)</td>
+		<td>
+			http://www.toolgen.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>유비온</td>
+		<td style="mso-number-format:'@';text-align:center;">084440</td>
+		<td>기타 정보 서비스업</td>
+		<td>이러닝(E-Learning)</td>
+		<td style="text-align:center;">2014-01-21</td>
+		<td style="text-align:center;">09월</td>
+		<td>임재환</td>
+		<td>
+			http://ubion.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>위월드</td>
+		<td style="mso-number-format:'@';text-align:center;">140660</td>
+		<td>통신 및 방송 장비 제조업</td>
+		<td>이동위성통신안테나, 위성방송시스템</td>
+		<td style="text-align:center;">2013-12-26</td>
+		<td style="text-align:center;">12월</td>
+		<td>박찬구</td>
+		<td>
+			http://www.wiworld.co.kr
+		</td>
+		<td >대전광역시</td>
+	</tr>
+			
+	<tr>
+		<td>씨이랩</td>
+		<td style="mso-number-format:'@';text-align:center;">189330</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>빅데이터 플랫폼(EMS, IOT), 빅데이터 SNS분석 솔루션(Buzzbee), 빅데이터 전문교육 및 인증사업, 빅데이터 기반 고객관리상권정보 서비스(Guppii), 전통시장활성화솔루션(Smilero)</td>
+		<td style="text-align:center;">2013-12-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>이우영</td>
+		<td>
+			http://www.xiilab.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>코셋</td>
+		<td style="mso-number-format:'@';text-align:center;">189350</td>
+		<td>통신 및 방송 장비 제조업</td>
+		<td>광통신용 증폭기</td>
+		<td style="text-align:center;">2013-12-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>오치형, 주관종</td>
+		<td>
+			http://coset.com
+		</td>
+		<td >광주광역시</td>
+	</tr>
+			
+	<tr>
+		<td>대동고려삼</td>
+		<td style="mso-number-format:'@';text-align:center;">178600</td>
+		<td>기타 식품 제조업</td>
+		<td>인삼식품(홍삼진액, 홍삼정)</td>
+		<td style="text-align:center;">2013-12-20</td>
+		<td style="text-align:center;">06월</td>
+		<td>최 성 근</td>
+		<td>
+			http://www.ddkorea.co.kr
+		</td>
+		<td >충청남도</td>
+	</tr>
+			
+	<tr>
+		<td>청광건설</td>
+		<td style="mso-number-format:'@';text-align:center;">140290</td>
+		<td>토목 건설업</td>
+		<td>관도급, BTL, 자체사업</td>
+		<td style="text-align:center;">2013-12-20</td>
+		<td style="text-align:center;">12월</td>
+		<td>허숭</td>
+		<td>
+			http://www.chungkwang.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>한중엔시에스</td>
+		<td style="mso-number-format:'@';text-align:center;">107640</td>
+		<td>자동차 신품 부품 제조업</td>
+		<td>자동차 신품 부품제조업(배기시스템부품, Electroinc, 전기차 밧데리 모듈 부품 등)</td>
+		<td style="text-align:center;">2013-12-10</td>
+		<td style="text-align:center;">12월</td>
+		<td>김환식</td>
+		<td>
+			http://www.hjncs.com
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>골프존데카</td>
+		<td style="mso-number-format:'@';text-align:center;">183410</td>
+		<td>측정, 시험, 항해, 제어 및 기타 정밀기기 제조업; 광학기기 제외</td>
+		<td>골프거리측정기</td>
+		<td style="text-align:center;">2013-11-12</td>
+		<td style="text-align:center;">12월</td>
+		<td>정주명</td>
+		<td>
+			http://www.golfbuddy.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>수프로</td>
+		<td style="mso-number-format:'@';text-align:center;">185190</td>
+		<td>산업용 농·축산물 및 동·식물 도매업</td>
+		<td>조경수용 수목</td>
+		<td style="text-align:center;">2013-10-29</td>
+		<td style="text-align:center;">03월</td>
+		<td>채일</td>
+		<td>
+			http://www.suppro.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>대주이엔티</td>
+		<td style="mso-number-format:'@';text-align:center;">114920</td>
+		<td>1차 철강 제조업</td>
+		<td>이중보온관, 엘리베이터 가이드 레일</td>
+		<td style="text-align:center;">2013-07-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>황광수</td>
+		<td>
+			http://www.daejooent.co.kr
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>에스에이티이엔지</td>
+		<td style="mso-number-format:'@';text-align:center;">158300</td>
+		<td>특수 목적용 기계 제조업</td>
+		<td>FPD Bonding System, Inspection System</td>
+		<td style="text-align:center;">2013-07-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>소진석, 황성철 (각자대표이사)</td>
+		<td>
+			http://www.sateng.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>에스엔피제네틱스</td>
+		<td style="mso-number-format:'@';text-align:center;">086460</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td>유전체 분석 서비스</td>
+		<td style="text-align:center;">2013-07-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>신형두</td>
+		<td>
+			http://www.snp-genetics.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>옐로페이</td>
+		<td style="mso-number-format:'@';text-align:center;">179720</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>전자지급결제 서비스</td>
+		<td style="text-align:center;">2013-07-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>이상규</td>
+		<td>
+			http://www.yelopay.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>태양기계</td>
+		<td style="mso-number-format:'@';text-align:center;">116100</td>
+		<td>자동차 신품 부품 제조업</td>
+		<td>엔진부품</td>
+		<td style="text-align:center;">2013-07-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>박창엽</td>
+		<td>
+			http://www.sun-mc.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+		
+		
+	
+	</table>
+</body>
+</html>
