@@ -418,5 +418,3 @@ with conn.cursor() as curs:
 
 a = {'a':30, 'b':[20]}
 a = list(a)
-print(a[0][1])
-print('123123')
